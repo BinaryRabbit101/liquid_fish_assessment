@@ -32717,6 +32717,15 @@ select {
           animation: bounce 1s infinite;
 }
 
+.error {
+  color: red;
+  font-size: 0.8rem;
+}
+
+.success {
+  color: green;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
